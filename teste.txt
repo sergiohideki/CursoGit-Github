@@ -2,3 +2,6 @@ testando
 uma
 atualização
 remota
+para
+o
+local
